@@ -36,7 +36,9 @@
 - Find Peak - used max value (peak) at each bin for each m/z as feature
 
 **Left Is Before Preprocessing, Right is After Smooth and Baseline Subtraction**
+
 **Top is an example of a commerical sample, bottom is an example of a sam testbed sample**
+
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Preprocess_Commercial_Example.png)
 
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Preprocess_Sam_Testbed_Example.png)
@@ -59,7 +61,6 @@ Hyperparam tuned to cross validation
 - Simple MLP
 - Guassian NB
 
-**Cross Validation Results**
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Cross_Validation_Chart.PNG)
 
 ## References

@@ -14,7 +14,7 @@ The following image is the SAM Testbed on Mars and its replica at NASA that coll
 
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Data_Collection_Tool.PNG)
 
-The following chart shows the targets I am predicting and their distubutions
+The following chart shows the targets I am predicting and their distributions
 
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Target_Distrubutions.png)
 

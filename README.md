@@ -10,8 +10,9 @@ In this challenge, I built a machine learning model to automatically analyze mas
 
 See File Descriptions for details on running the code
 
-The following chart shows the target Distubutions
-![image]()
+The following chart shows the targets I am predicting and their distubutions
+
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Target_Distrubutions.png)
 
 ## File Descriptions
 **Folders**

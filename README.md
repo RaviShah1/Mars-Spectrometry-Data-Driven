@@ -3,13 +3,13 @@
 ## Overview
 
 ## File Descriptions
-*** Folders ***
+**Folders**
 - data - data used for training and inference
 - plots - files and images created for EDA
 - saved_models - pkl files containing trained models
 - submissions - csv files containing competition submissions
 
-** Files in Main **
+**Files in Main**
 - run.sh - example of file to run to generate a dataset folder, train a model, and create a submission (runs full pipeline)
 - generate_dataset.py - preprocesses and feature engineers data (uses argparse for command line use)
 - train_pipeline.py - runs training code (uses argparse for command line use)

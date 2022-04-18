@@ -12,7 +12,7 @@ See File Descriptions for details on running the code
 
 The following image is the SAM Testbed on Mars and its replica at NASA that collected the data I processed
 
-![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Target_Distrubutions.png)
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Data_Collection_Tool.PNG)
 
 The following chart shows the targets I am predicting and their distubutions
 

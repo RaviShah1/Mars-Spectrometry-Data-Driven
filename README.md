@@ -44,7 +44,7 @@ Light Gradient Boosted Machine (LGBM)
 - reg alpha = 1
 - cosample bytree = 0.4
 - random state = 42
-- 
+
 Hyperparam tuned to cross validation
 
 **Failed Model**

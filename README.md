@@ -55,7 +55,7 @@ Light Gradient Boosted Machine (LGBM)
 
 Hyperparam tuned to cross validation
 
-**Failed Model**
+**Failed Models**
 - Logistic Regression
 - KNN
 - Simple MLP
@@ -63,7 +63,7 @@ Hyperparam tuned to cross validation
 
 **Cross Validation**
 - For testing, I used stratisfied k-fold and train each target column separtely, see best results in chart below
-- For train, I split and trained 10 folds using a multi label stratisfied k-fold
+- For training, I split and trained 10 folds using a multi label stratisfied k-fold
 
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Cross_Validation_Chart.PNG)
 

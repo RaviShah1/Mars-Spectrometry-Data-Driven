@@ -21,6 +21,8 @@
 - requirements.txt - pip install to recreate python environment used to train models
 
 ## Preprocessing
+**Unstructured -> Structured**
+- Drop m/z values above 100 since all samples had m
 
 ## Machine Learning Modelling
 

@@ -2,6 +2,17 @@
 
 ## Overview
 
+This repo contains my code for the Mar Spectrometry challenge hosted by Data Driven. 
+
+https://www.drivendata.org/competitions/93/nasa-mars-spectrometry/
+
+In this challenge, I built a machine learning model to automatically analyze mass spectrometry data collected for Mars exploration in order to help scientists in their analysis of understanding the past habitability of Mars. The model detects the presence of certain families of chemical compounds in data collected from performing evolved gas analysis (EGA) on a set of analog samples. 
+
+See File Descriptions for details on running the code
+
+The following chart shows the target Distubutions
+![image]()
+
 ## File Descriptions
 **Folders**
 - data - data used for training and inference

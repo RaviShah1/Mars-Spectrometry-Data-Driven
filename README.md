@@ -35,9 +35,9 @@
 - Binning - binned each m/z by temperature from range [-100,1600] with frequency of 100
 - Find Peak - used max value (peak) at each bin for each m/z as feature
 
-![image]()
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Preprocess_Commercial_Example.png)
 
-![image]()
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Preprocess_Sam_Testbed_Example.png)
 
 ## Machine Learning Modelling
 

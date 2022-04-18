@@ -3,7 +3,7 @@
 ## Overview
 
 ## File Descriptions
-** Folders **
+*** Folders ***
 - data - data used for training and inference
 - plots - files and images created for EDA
 - saved_models - pkl files containing trained models

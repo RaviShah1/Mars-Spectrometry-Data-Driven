@@ -32,10 +32,12 @@
 - Scale Abundance - scaled abundance from 0 to 1 across entire sample
 
 **Feature Engineering**
-- Binning - binned each m/z by temperture from range [-100,1600] with bin size of 100
+- Binning - binned each m/z by temperature from range [-100,1600] with frequency of 100
 - Find Peak - used max value (peak) at each bin for each m/z as feature
 
 ## Machine Learning Modelling
+
+
 
 ## References
 https://www.drivendata.co/blog/mars-spectrometry-benchmark/ 

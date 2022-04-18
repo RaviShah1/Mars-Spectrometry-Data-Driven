@@ -37,7 +37,21 @@
 
 ## Machine Learning Modelling
 
+**Model Used**
+Light Gradient Boosted Machine (LGBM)
+- metric = binary cross entropy
+- reg alpha = 1
+- cosample bytree = 0.4
+- random state = 42
+Hyperparam tuned to cross validation
 
+**Failed Model**
+- Logistic Regression
+- KNN
+- Simple MLP
+- Guassian NB
+
+**Cross Validation Results**
 
 ## References
 https://www.drivendata.co/blog/mars-spectrometry-benchmark/ 

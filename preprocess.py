@@ -44,7 +44,7 @@ def remove_background_abundance(df: pd.DataFrame) -> pd.DataFrame:
 
     return df
 
-def smooth_baseline_sub(x):
+def smooth_baseline_sub(x: np.ndarray) -> np.ndarray:
     """
     Applies the savgol filter and subtracts the baseline (minimum value) from an signal
 
@@ -65,7 +65,7 @@ def smooth_baseline_sub(x):
     
     return x 
 
-def scale_abun(df):
+def scale_abun(df: pd.DataFrame) -> pd.DataFrame:
     """
     Scale abundance from 0-1 according to the min and max values across entire sample
 

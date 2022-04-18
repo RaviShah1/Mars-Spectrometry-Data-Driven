@@ -10,6 +10,10 @@ In this challenge, I built a machine learning model to automatically analyze mas
 
 See File Descriptions for details on running the code
 
+The following image is the SAM Testbed on Mars and its replica at NASA that collected the data I processed
+
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Target_Distrubutions.png)
+
 The following chart shows the targets I am predicting and their distubutions
 
 ![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Target_Distrubutions.png)

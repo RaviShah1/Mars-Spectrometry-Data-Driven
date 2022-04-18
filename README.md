@@ -3,6 +3,22 @@
 ## Overview
 
 ## File Descriptions
+** Folders **
+- data - data used for training and inference
+- plots - files and images created for EDA
+- saved_models - pkl files containing trained models
+- submissions - csv files containing competition submissions
+
+** Files in Main **
+- run.sh - example of file to run to generate a dataset folder, train a model, and create a submission (runs full pipeline)
+- generate_dataset.py - preprocesses and feature engineers data (uses argparse for command line use)
+- train_pipeline.py - runs training code (uses argparse for command line use)
+- inference_pipeline.py - run inference code (uses argparse for command line use)
+- preprocess.py - contains preprocessing functions to structure data, apply signal smoothing, remove baseline, and normalize signal
+- feature_engineering.py - contains function to get features for machine learning model (bins signal and gets peak for each bin)
+- models.py - contains machine learning models to train for task
+- cross_validation.py - used to get cross validation scores while testing models
+- requirements.txt - pip install to recreate python environment used to train models
 
 ## Preprocessing
 

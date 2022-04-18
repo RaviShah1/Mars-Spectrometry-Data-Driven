@@ -22,7 +22,9 @@
 
 ## Preprocessing
 **Unstructured -> Structured**
-- Drop m/z values above 100 since all samples had m
+- Drop m/z values above 100 since all samples had m/z in range [0,99]
+- Dop m/z 4 (Helium) since that was the carrier gas
+- 
 
 ## Machine Learning Modelling
 

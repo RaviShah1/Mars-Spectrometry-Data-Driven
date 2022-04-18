@@ -24,7 +24,16 @@
 **Unstructured -> Structured**
 - Drop m/z values above 100 since all samples had m/z in range [0,99]
 - Dop m/z 4 (Helium) since that was the carrier gas
-- 
+- Group abundance for sample by m/z
+
+**Mass Spectrometry Specific**
+- Smooth Signal - applied savgol filter to smooth an abundance signal
+- Baseline Subtraction - many methods attempted, best cross validation was produced by simply subtracting the minimum from each abundance signal
+- Scale Abundance - scaled abundance from 0 to 1 across entire sample
+
+**Feature Engineering**
+- Binning - binned each m/z by temperture from range [-100,1600] with bin size of 100
+- Find Peak - used max value (peak) at each bin for each m/z as feature
 
 ## Machine Learning Modelling
 

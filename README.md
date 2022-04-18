@@ -35,6 +35,10 @@
 - Binning - binned each m/z by temperature from range [-100,1600] with frequency of 100
 - Find Peak - used max value (peak) at each bin for each m/z as feature
 
+![image]()
+
+![image]()
+
 ## Machine Learning Modelling
 
 **Model Used**

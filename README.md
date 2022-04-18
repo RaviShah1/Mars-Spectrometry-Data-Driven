@@ -58,6 +58,7 @@ Hyperparam tuned to cross validation
 - Guassian NB
 
 **Cross Validation Results**
+![image](https://github.com/RaviShah1/Mars-Spectrometry-Data-Driven/blob/main/plots/Cross_Validation_Results.png)
 
 ## References
 https://www.drivendata.co/blog/mars-spectrometry-benchmark/ 
